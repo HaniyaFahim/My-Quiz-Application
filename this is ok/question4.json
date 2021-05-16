@@ -1,0 +1,43 @@
+[
+    {
+    "question":  "Where is the Mughal Emperor Jahangir's tomb located in Pakistan ?",
+    "choice1":  "Lahore",
+    "choice2":   "Karachi",
+    "choice3": "Multan",
+    "choice4": "Quetta",
+    "answer": 1
+    },
+    {
+    "question": "In which year Pakistan won the world cup?",
+    "choice1":  "1960",
+    "choice2":  "1940",
+    "choice3":  "1947",
+    "choice4":  "1992",
+    "answer": 4
+    },
+    {
+    "question": "The second woorld's highest cliff is:",
+    "choice1":  "Everest",
+    "choice2":  "The Cliffs of Moher",
+    "choice3": "Karakoram",
+    "choice4":  "Trango Towers",
+    "answer": 3
+    },
+    {
+    "question": "Where is the biggest salt mine located in Pakistan?",
+    "choice1": "Mangora",
+    "choice2":  "Khewra",
+    "choice3": "Jhelum",
+    "choice4":"Punjab",
+    "answer": 1
+    },
+    {
+    "question": "The second largest city of Pakistan is:",
+    "choice1": "Karachi",
+    "choice2": "Lahore",
+    "choice3": "Islamabad",
+    "choice4":  "Gwadar",
+    "answer": 2
+    }
+    
+    ]

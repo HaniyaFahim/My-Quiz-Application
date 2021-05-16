@@ -1,0 +1,43 @@
+[
+    {
+    "question": "What is 15% of 80 ?",
+    "choice1": "8",
+    "choice2": "14",
+    "choice3": "10",
+    "choice4": "12",
+    "answer": 4
+    },
+    {
+    "question": "What is 9% of 600 ?",
+    "choice1":  "48",
+    "choice2":  "56",
+    "choice3":  "54",
+    "choice4":  "50",
+    "answer": 3
+    },
+    {
+    "question":  "The pythagoras theorem is :",
+    "choice1":  "P² = B² - H²",
+    "choice2":  "H² = P² + B²" , 
+    "choice3":  "P² = B² + H²",
+    "choice4":  "B² = P² + H²",
+    "answer": 2
+    },
+    {
+    "question": "What is the probablity of it to rain today?",
+    "choice1":  "likely",
+    "choice2":  "evenchance",
+    "choice3": "unlikely",
+    "choice4": "certain",
+    "answer": 2
+    },
+    {
+    "question":  "The score of 8 students in an English test are 79, 58, 73, 66, 50, 89, 91, and 58. Find their mean score",
+    "choice1":  "70.5",
+    "choice2": "60",
+    "choice3": "70",
+    "choice4": "80.5",
+    "answer": 1
+    }
+    
+    ]

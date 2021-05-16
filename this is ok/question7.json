@@ -1,0 +1,43 @@
+[
+    {
+    "question": "Quid-e-Azam was borned on ?",
+    "choice1": "Thusday",
+    "choice2": "Saturday",
+    "choice3": "Monday",
+    "choice4": "Wednesday",
+    "answer": 1
+    },
+    {
+    "question": "Quid-e-Azam died on ?",
+    "choice1":  "Saturday",
+    "choice2": "Thursday",
+    "choice3": "Tuesday",
+    "choice4": "Friday",
+    "answer": 1
+    },
+    {
+    "question": "The height of Minar-e-Pakistan is ?",
+    "choice1":   "196ft and 4inch",
+    "choice2": "206ft and 5inch",
+    "choice3": "150ft and 2inch",
+    "choice4": "190ft and 6inch",
+    "answer": 1
+    },
+    {
+    "question": "The height of the 4 Minars of the Badshahi mosque are? ",
+    "choice1": "119ft",
+    "choice2": "200ft",
+    "choice3": "150ft",
+    "choice4": "177ft",
+    "answer": 4
+    },
+    {
+    "question": "Who made the design of Pakistan's first stamp ticket? ",
+    "choice1": "MR.Hafeez Jalandari",
+    "choice2":"MR. Mirat Khan",
+    "choice3": "Abdur-rehaman Chugtai",
+    "choice4": "Mian Abdur Rasheed",
+    "answer": 3
+    }
+    
+    ]

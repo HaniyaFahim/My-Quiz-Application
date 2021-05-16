@@ -1,0 +1,43 @@
+[
+    {
+    "question": "What is the number given?  5047000" ,
+    "choice1":  "five million, four hundred and seventy thousand.",
+    "choice2": "five million and forty-seven thousand.",
+    "choice3": "five million, four thousand and seven hundred.",
+    "choice4": "five million and forty-seven",
+    "answer": 2
+    },
+    {
+    "question": "What is the missing number ?  43 x 200 = ??",
+    "choice1":  "86",
+    "choice2":  "860",
+    "choice3":  "8600",
+    "choice4": "86 000",
+    "answer": 3
+    },
+    {
+    "question": "What is the value of 565-70+2x5 ?",
+    "choice1":  "205",
+    "choice2":  "225",
+    "choice3":  "485" ,
+    "choice4":  "505" ,
+    "answer": 4
+    },
+    {
+    "question": "What is the prime factorisation of 125?",
+    "choice1":  "125 x 1",
+    "choice2": "5 x 25",
+    "choice3": "5 x 5 x 5",
+    "choice4":   "3 x 3 x 5 x 5",
+    "answer": 3
+    },
+    {
+    "question":  "Which of the following has the same value as 6 ÷ 4?",
+    "choice1": "1",
+    "choice2":"2",
+    "choice3": "2/3",
+    "choice4": "1,1/2",
+    "answer": 4
+    }
+    
+    ]

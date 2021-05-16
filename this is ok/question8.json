@@ -1,0 +1,43 @@
+[
+    {
+    "question": "Which cut flower is the most popula for purchase?",
+    "choice1": "Rose",
+    "choice2": "Sunflower",
+    "choice3": "Lily",
+    "choice4": "Tulip",
+    "answer": 1
+    },
+    {
+    "question": "Which flower has the smallest seed?",
+    "choice1":  "Tulip",
+    "choice2": "Daffodil",
+    "choice3": "Orchid",
+    "choice4": "Sweet pea",
+    "answer": 3
+    },
+    {
+    "question": "Which flower symbolically means 'beauty'?",
+    "choice1":   "Calla Lily",
+    "choice2": "Honeysuckle",
+    "choice3": "Gardenia",
+    "choice4": "Rose",
+    "answer": 1
+    },
+    {
+    "question": "What colour rose would you send someone to say 'I am innocent and pure'?",
+    "choice1": "Pink",
+    "choice2": "White",
+    "choice3": "Red",
+    "choice4": "Yellow",
+    "answer": 2
+    },
+    {
+    "question": "The disc of this flower is made up of hundreds of tiny flowers",
+    "choice1": "Anemone",
+    "choice2":"Gardenia",
+    "choice3": "Daisey",
+    "choice4": "Petunia",
+    "answer": 3
+    }
+    
+    ]

@@ -1,0 +1,43 @@
+[
+    {
+    "question": "Let's say you send a bouquet of Bells of Ireland to a friend.what message are you sending?",
+    "choice1": "Be my support",
+    "choice2": "Think of me",
+    "choice3": "Reconcilation",
+    "choice4": "Good luck",
+    "answer": 4
+    },
+    {
+    "question": "What flower bulb can be used in place of onions in cooking?",
+    "choice1":  "Freesia",
+    "choice2": "Tulip",
+    "choice3": "Dahlia",
+    "choice4": "Gladiolus",
+    "answer": 2
+    },
+    {
+    "question": "Who said,'Where flowers grow so does hope'?",
+    "choice1":   "Ralph Waldo Emerson",
+    "choice2": "Shakespeare",
+    "choice3": "Lady Bird Johnson",
+    "choice4": "Mother Teresa",
+    "answer": 3
+    },
+    {
+    "question": "Carnation flowers are the national symbol og what country?",
+    "choice1": "Bulgeria",
+    "choice2": "Slovenia",
+    "choice3": "Belarus",
+    "choice4": "Croatia",
+    "answer": 2
+    },
+    {
+    "question": "What is the state flower of New York?",
+    "choice1": "Poppy",
+    "choice2":"Orange Blossom",
+    "choice3": "Camellia",
+    "choice4": "Rose",
+    "answer": 4
+    }
+    
+    ]

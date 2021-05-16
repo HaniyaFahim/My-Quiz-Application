@@ -1,0 +1,43 @@
+[
+    {
+    "question": "How many primary colors are there",
+    "choice1": "3(red,green,blue)",
+    "choice2": "2(green,red)",
+    "choice3": "3(orange,red,yellow)",
+    "choice4": "7(red,orange,yellow,green,blue,indigo,violet)",
+    "answer": 1
+    },
+    {
+    "question": "How many days are there in the month of February in a leap year?",
+    "choice1":  "30",
+    "choice2": "29",
+    "choice3": "366",
+    "choice4": "365",
+    "answer": 2
+    },
+    {
+    "question": "What do you call a house made of ice?",
+    "choice1":   "Igloo",
+    "choice2": "Ice House",
+    "choice3": "Brick house",
+    "choice4": "Wooden House",
+    "answer": 1
+    },
+    {
+    "question": "Which is the largest animal in the world?",
+    "choice1": "Shark",
+    "choice2": "Snake",
+    "choice3": " Giraffe",
+    "choice4": " Blue whale",
+    "answer": 4
+    },
+    {
+    "question": "Which is the tallest animal on the earth?",
+    "choice1": "Snake",
+    "choice2":"Elephant",
+    "choice3": "Giraffe",
+    "choice4": "Lion",
+    "answer": 3
+    }
+    
+    ]

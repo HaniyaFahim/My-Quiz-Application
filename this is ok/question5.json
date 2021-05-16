@@ -1,0 +1,43 @@
+[
+    {
+    "question": "The most beautiful stone-marble is extracted from which old or new province?",
+    "choice1": "Punjab",
+    "choice2": "Sindh",
+    "choice3": "KPK",
+    "choice4": "NWFP",
+    "answer": 4
+    },
+    {
+    "question": "The longest river in punjab is?",
+    "choice1":  "River Sindh",
+    "choice2":  "River Jehlum",
+    "choice3":  "River Chenab",
+    "choice4": "River Sutlej",
+    "answer": 1
+    },
+    {
+    "question":  "When did Pakistan won the Olympic gold medal in Hockey for the first time?",
+    "choice1":   "1981",
+    "choice2": "1947",
+    "choice3": "1964",
+    "choice4": "2000",
+    "answer": 3
+    },
+    {
+    "question": "Which is the national flower of Pakistan?",
+    "choice1":  "Habiscus",
+    "choice2":  "Lavendar",
+    "choice3": "Rose",
+    "choice4": "Jasmine",
+    "answer": 4
+    },
+    {
+    "question": "Which millitary alliance had Pakistan as it's member",
+    "choice1": "NATO ESDP",
+    "choice2": "AU PSC",
+    "choice3": "SADC",
+    "choice4":"SEATO",
+    "answer": 4
+    }
+    
+    ]

@@ -1,0 +1,44 @@
+[
+    {
+    "question": 
+    "Think of the greatest and the smallest numbers which can be rounded to the nearest hundred to get 85 500",
+    "choice1": "84,999 & 85,499",
+    "choice2": "85,499 & 85,450",
+    "choice3": "86,110 & 85,993",
+    "choice4": "85,600 & 85,400",
+    "answer": 2
+    },
+    {
+    "question": "How many factors does 84 have", 
+    "choice1":  "1,2,3,4,6,7,12,14,21,28,42,84", 
+    "choice2":  "1,2,4,8,16,32,64,84", 
+    "choice3":  "1,2,3,4,6,8,9,12,18,24,36,72,84", 
+    "choice4":  "All of the above", 
+    "answer": 1
+    },
+    {
+    "question":  "33 / 4 = ?", 
+    "choice1":  "2.06", 
+   "choice2":  "1.10", 
+   "choice3":  "8.25", 
+    "choice4":  "0.09", 
+    "answer": 3
+    },
+    {
+    "question": "A square has a perimeter of 16cm. Length = ?cm & Area = ?cm²",
+   "choice1":  "Length = 4cm & Area = 16cm²", 
+    "choice2":  "Length = 4cm & Area = 16cm", 
+    "choice3": "Length = 4cm & Area = 8cm²", 
+    "choice4": "None of the above", 
+    "answer": 1
+    },
+    {
+    "question": "What would 1:50 o'clock + 1:50 o'clock be ? ", 
+    "choice1": "3:00 o'clock", 
+    "choice2": "4:40 o'clock", 
+    "choice3": "3:40 o'clock", 
+    "choice4":"None of the above", 
+    "answer": 3
+    }
+    
+    ]

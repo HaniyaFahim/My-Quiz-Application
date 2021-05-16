@@ -1,0 +1,43 @@
+[
+    {
+    "question": "How many days do we have in a week?",
+    "choice1": "2",
+    "choice2": "9",
+    "choice3": "4",
+    "choice4": "7",
+    "answer": 4
+    },
+    {
+    "question": "How many days are there in a normal year?",
+    "choice1":  "365 days",
+    "choice2": "360 days",
+    "choice3": "350 days",
+    "choice4": "390 days",
+    "answer": 1
+    },
+    {
+    "question": "How many colors are there in a rainbow?",
+    "choice1":   "1",
+    "choice2": "7",
+    "choice3": "2",
+    "choice4": "8",
+    "answer": 2
+    },
+    {
+    "question": " Which animal is known as the ‘Ship of the Desert?",
+    "choice1": "Camel",
+    "choice2": "Horse",
+    "choice3": "Snake",
+    "choice4": "Ostrich",
+    "answer": 1
+    },
+    {
+    "question": "How many letters are there in the English alphabet?",
+    "choice1": "12",
+    "choice2":"25",
+    "choice3": "26",
+    "choice4": "20",
+    "answer": 3
+    }
+    
+    ]

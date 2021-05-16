@@ -1,0 +1,43 @@
+[
+    {
+    "question": "How many consonants are there in the English alphabet?",
+    "choice1": "30",
+    "choice2": "5",
+    "choice3": "21",
+    "choice4": "26",
+    "answer": 3
+    },
+    {
+    "question": "How many sides are there in a triangle?",
+    "choice1": "1",
+    "choice2": "0",
+    "choice3": "3",
+    "choice4": "4",
+    "answer": 3
+    },
+    {
+    "question": "Which month of the year has the least number of days?",
+    "choice1":   "February",
+    "choice2": "April",
+    "choice3": "June",
+    "choice4": "August",
+    "answer": 1
+    },
+    {
+    "question": "Which are the vowels in the English alphabet series?",
+    "choice1": " A, E, I, O, U",
+    "choice2": " E, I, A, U, O,",
+    "choice3": " O, E, U, A, I",
+    "choice4": " I, U, A, O, E",
+    "answer": 1
+    },
+    {
+    "question": "Which animal is called King of Jungle?",
+    "choice1": "Lion",
+    "choice2":"Tiger",
+    "choice3": "Cheeta",
+    "choice4": "Eagle",
+    "answer": 1
+    }
+    
+    ]

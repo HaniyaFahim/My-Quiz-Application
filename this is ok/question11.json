@@ -1,0 +1,43 @@
+[
+    {
+    "question": "The national flower of Mauritius",
+    "choice1": "Water lily",
+    "choice2": "Rose",
+    "choice3": "Trochetia",
+    "choice4": "Nambia",
+    "answer": 3
+    },
+    {
+    "question": "Which is the biggest flower of the world?",
+    "choice1":  "Lily",
+    "choice2": "Rose",
+    "choice3": "Rafflesia",
+    "choice4": "Petunia",
+    "answer": 3
+    },
+    {
+    "question": " For which of the following flowers is 'polyanthus' a common name?",
+    "choice1":   "Pany",
+    "choice2": "Rose",
+    "choice3": "Violet",
+    "choice4": "Primrose",
+    "answer": 4
+    },
+    {
+    "question": "One of the following flowers has the old country nickname of 'heartsease'. Which is it?",
+    "choice1": "Lily",
+    "choice2": "Tulip",
+    "choice3": "Rose",
+    "choice4": "Pansy",
+    "answer": 4
+    },
+    {
+    "question": "There is a pretty little flower that shares its name with a musical instrument. Which is it?",
+    "choice1": "Flutewood",
+    "choice2":"Drumflower",
+    "choice3": "Viola",
+    "choice4": "Harp Flower",
+    "answer": 3
+    }
+    
+    ]

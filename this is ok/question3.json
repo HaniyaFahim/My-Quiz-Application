@@ -1,0 +1,44 @@
+[
+    
+    {
+      "question":  "6 ÷ 2 (1 +2)=?",
+      "choice1":   "9",
+      "choice2":  "7",
+      "choice3":  "10",
+      "choice4": "13",
+      "answer": 1
+    },
+      {
+        "question":  "48 ÷ 2 (9+3)=?",
+        "choice1":   "419",
+        "choice2":  "278",
+        "choice3":  "345",
+        "choice4": "288",
+        "answer": 4
+        },
+        {
+          "question":  "8 ÷ 2 (2+2)=?",
+          "choice1":  "16",
+          "choice2":  "14",
+          "choice3":  "8",
+          "choice4": "6",
+          "answer": 1
+          },
+          {
+            "question":   "2-2x2+2=??",
+            "choice1":   "3",
+            "choice2":  "0",
+            "choice3":  "4",
+            "choice4": "1",
+            "answer": 2
+            },
+{
+"question":  "what is the answer of 28x2-16+8÷3=",
+"choice1":   "22",
+"choice2":  "12",
+"choice3":  "10",
+"choice4": "18",
+"answer": 4
+}
+  
+  ]

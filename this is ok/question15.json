@@ -1,0 +1,43 @@
+[
+    {
+    "question": "Which festival is known as the festival of colors?",
+    "choice1": "National scouts day",
+    "choice2": "Holi",
+    "choice3": "Eid-ul-Fitr",
+    "choice4": "Earth day",
+    "answer": 2
+    },
+    {
+    "question": "Which festival is called the festival of light?",
+    "choice1":  "Diwali",
+    "choice2": "Eid-ul-Azha",
+    "choice3": "Holi",
+    "choice4": "Mothers day",
+    "answer": 1
+    },
+    {
+    "question": "What is the top color in a rainbow?",
+    "choice1":   "Blue",
+    "choice2": " Red",
+    "choice3": "Orange",
+    "choice4": "Green",
+    "answer": 2
+    },
+    {
+    "question": "What type of bird lays the largest eggs?",
+    "choice1": "Eagle",
+    "choice2": "Flamingo",
+    "choice3": "Chakor",
+    "choice4": "Ostrich",
+    "answer": 4
+    },
+    {
+    "question": "Which festival is known as the ‘Festival of flowers’?",
+    "choice1": "Holi",
+    "choice2":"Onam",
+    "choice3": "Mothers day",
+    "choice4": "fathers day",
+    "answer": 2
+    }
+    
+    ]
